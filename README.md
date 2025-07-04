@@ -61,3 +61,10 @@ For each of the variables of interest:
 - printed metrics
 
 ---
+
+## Author
+
+**Arianna Magagna**  
+BSc Physics - University of Trento  
+MSc Science of Climate — University of Bologna  
+📫 Contact: arianna.magagna@studio.unibo.it
