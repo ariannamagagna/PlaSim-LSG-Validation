@@ -1,6 +1,7 @@
 # PlaSim-LSG Validation
 
 This repository contains the code and tools used to **validate the PlaSim-LSG coupled climate model** against **ERA5 reanalysis data**. The analysis focuses on climatological comparisons of key selected variables, including sea-level pressure, sea surface temperature, and sea ice cover.
+[Read the Full Report](https://github.com/ariannamagagna/PlaSim-LSG-Validation/blob/main/model_validation.pdf)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/589fa99b-7cb8-4fa4-aab6-a5c4ef3d1d68" alt="Sea Ice Bias Spin" />
